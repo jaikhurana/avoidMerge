@@ -1,1 +1,1 @@
-*.json merge=deny
+*.sldd merge=deny
